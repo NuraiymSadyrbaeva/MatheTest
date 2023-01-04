@@ -1,0 +1,12 @@
+* {
+  margin-left: 60px;
+}
+.text {
+  text-align: center;
+}
+.mathe {
+  text-align: center;
+}
+#finish {
+  background-color: rgb(221, 199, 126);
+}
