@@ -19,5 +19,5 @@ function checkTest() {
   if (a4 === "1") {
     result++;
   }
-  alert("количество правильных ответов:" + result);
+  alert("Anzahl richtiger Antworten:" + result);
 }
